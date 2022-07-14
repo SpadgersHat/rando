@@ -68,7 +68,7 @@ answers = {'yes_no': ['Absolutely.', 'Almost certainly.', 'If not, it will be so
                       'Yuuup.', "Doubt it.", "It's yes and no. Sorry to be so vague on this."],
            'which': ['The first one.', 'Go with your gut on this.', 'Same ones as last time.',
                      'The last, alphabetically.', 'The best one.', 'Close your eyes and point.', 'None of them.',
-                     'All of them.'],
+                     'All of them.', 'KOM'],
            'who': ['John Martin Francis McElroy.', 'Me, I guess.', 'Ivan. Obviously.', 'Got to be Charlie.',
                    "It's either Ike or nobody.", "Paul Scholes.", 'Weirdly, Gordon Brown?!',
                    "My assistant, Markus't Fr.", "Anyone wearing shorts.", 'Bees.', 'FUCKING MEEEE.', 'The Zionists.',
